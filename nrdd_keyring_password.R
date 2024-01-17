@@ -1,3 +1,7 @@
+# R version 4.3.1
+# Date: 01/17/2024
+# Contact: nrdd.admin@noaa.gov or ishrat.jabin@noaa.gov for questions/concerns
+
 # Libraries ---------------------------------------------------------------
 
 library(keyring)
